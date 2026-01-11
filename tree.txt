@@ -1,0 +1,9 @@
+tg_psy_bot/
+│
+├── bot.py
+├── gemini.py
+├── storage.py
+├── data.json
+├── requirements.txt
+├── Dockerfile
+└── README.md
